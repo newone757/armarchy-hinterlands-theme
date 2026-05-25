@@ -1,6 +1,8 @@
-# Omarchy Hinterlands Theme
+# Hinterlands Theme
 
-Hinterlands is a monochrome, dark-mode theme inspired by foggy waterlines and distant silhouettes. Soft gradients, low-contrast layers, and crisp highlights keep it calm and readable without breaking the grayscale mood.
+Hinterlands is a monochrome, dark-mode theme inspired by foggy waterlines and distant silhouettes. Low-contrast layers and crisp highlights keep it calm and readable without breaking the grayscale mood.
+
+This is a fork of [OldJobobo/omarchy-hinterlands-theme](https://github.com/OldJobobo/omarchy-hinterlands-theme) with reworked borders and shadows for clearer window focus.
 
 ## Preview
 
@@ -8,10 +10,8 @@ Hinterlands is a monochrome, dark-mode theme inspired by foggy waterlines and di
 
 ## Install
 
-Use the normal Omarchy theme install method:
-
 ```bash
-omarchy-theme-install https://github.com/OldJobobo/omarchy-hinterlands-theme
+omarchy-theme-install https://github.com/newone757/armarchy-hinterlands-theme
 ```
 
 ## Wallpapers
