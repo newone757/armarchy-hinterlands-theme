@@ -27,12 +27,10 @@ hl.config({
       size = 4,
       passes = 3,
     },
+    -- No shadow: floating windows get the same plain border as tiled ones
+    -- (the old white color_inactive drew a bright glow around them).
     shadow = {
-      enabled = true,
-      range = 24,
-      render_power = 8,
-      color = "rgba(000000ff)",
-      color_inactive = "rgba(dfdfdfff)",
+      enabled = false,
     },
   },
 })
